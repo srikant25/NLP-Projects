@@ -59,5 +59,4 @@ Automatically generates question papers based on:
 
 ---
 
-## 📁 Project Structure
 
